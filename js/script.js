@@ -9,7 +9,7 @@ console.log(kmViaggio);
 
 // età del passeggero
 
-var eta = parseInt(prompt('Quanti anni hai?'));
+var eta = parseInt(prompt('Quanti anni hai?')); 
 console.log(eta);
 
 // prezzo totale del viaggio per persone tra i 19 e 64 anni
