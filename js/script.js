@@ -8,7 +8,7 @@ var kmViaggio = parseInt(prompt('Quanto lungo è il tuo viaggio in km?'));
 console.log(kmViaggio);
 
 // età del passeggero
- 
+
 var eta = parseInt(prompt('Quanti anni hai?'));
 console.log(eta);
 
@@ -16,7 +16,7 @@ console.log(eta);
 // 0.21€ al km
 
 var prezzoBiglietto = kmViaggio * 0.21;
-console.log(prezzoBiglietto);
+console.log(prezzoBiglietto); 
 
 
 // sconto
