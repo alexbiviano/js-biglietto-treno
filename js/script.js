@@ -7,7 +7,8 @@
 var kmViaggio = parseInt(prompt('Quanto lungo è il tuo viaggio in km?'));
 console.log(kmViaggio);
 
-// età del passeggero 
+// età del passeggero
+ 
 var eta = parseInt(prompt('Quanti anni hai?'));
 console.log(eta);
 
